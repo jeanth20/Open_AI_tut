@@ -1,0 +1,9 @@
+
+sawiloh971@rockdian.com
+API KEY
+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
+
+
+
+
+https://platform.openai.com/playground/p/default-fix-python-bugs?model=text-davinci-003
