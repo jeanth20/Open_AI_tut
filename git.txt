@@ -9,7 +9,7 @@ git remote add origin <remote_repository_url>
 git push origin master
 
 
-
+git push --set-upstream origin master
 
 
 
