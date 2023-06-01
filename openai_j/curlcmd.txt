@@ -1,9 +1,0 @@
-curl https://api.openai.com/v1/completions \
--H "Content-Type: application/json" \
--H "Authorization: Bearer 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" \
--d '{
-    "model": "text-davinci-003",
-    "prompt": "Say this is a test",
-    "max_tokens": 7,
-    "temprature": 0
-}'
